@@ -86,7 +86,7 @@ Additionally, React has been out for about five years, and we want to make sure 
 
 To solve these problems, **Hooks let you use more of React's features without classes.** Conceptually, React components have always been closer to functions. Hooks embrace functions, but without sacrificing the practical spirit of React. Hooks provide access to imperative escape hatches and don't require you to learn complex functional or reactive programming techniques.
 
->Examples
+>Examples:
 >
 >[Hooks at a Glance](/docs/hooks-overview.html) is a good place to start learning Hooks.
 
